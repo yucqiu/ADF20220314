@@ -1,0 +1,9 @@
+{
+	"name": "qiuryan-ADF-Test1",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "831c38cc-ad07-470b-adbd-e4360e60cca6",
+		"tenantId": "9a2ffb93-1bfa-429a-aa08-333fb2558709"
+	}
+}
